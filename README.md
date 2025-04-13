@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @Abdulrahman-zazo
 - 👀 I am interested in web applications and software engineering
-- 🌱 I currently work with JavaScript and specialize in React
 - 📫 You can contact me through my LinkedIn account
 
 <!---
